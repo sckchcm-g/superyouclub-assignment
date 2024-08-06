@@ -30,7 +30,7 @@ This is a React-based affiliate marketing application as per the provided specif
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/sckchcm-g/superyourclub-task
+    git clone https://github.com/sckchcm-g/superyouclub-assignment
     ```
 
 2. **Install Dependencies**:
