@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root {
+    /* background: url('https://img.freepik.com/free-vector/dark-gradient-background-with-copy-space_53876-99548.jpg'); */
+    /* background: linear-gradient(rgb(255, 255, 255), rgb(210, 186, 255)); */
+    background-color: rgb(255, 255, 255);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
